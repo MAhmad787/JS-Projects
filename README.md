@@ -10,5 +10,9 @@ In the first project i have used an image , an input field that would take the p
 
 ### Project 2
 
-In the first project i have used an image for background and a song will play when you click the play button and the icon at the bottom will also change similarly when you click on the pause button the song will get paused and the icon at bottom will also change.
-The icon will only show when you are connected to Internet
+In the second project i have used an image for background and a song will play when you click the play button and the icon at the bottom will also change similarly when you click on the pause button the song will get paused and the icon at bottom will also change.
+The icon will only show when you are connected to Internet.
+
+### Project 3
+
+In the third project there is a list of contacts names you can search them by typing the particular name of person.
